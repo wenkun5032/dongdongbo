@@ -10,7 +10,7 @@ lsp专属app，所有精彩内容尽在dongdongbo
 
 需要購買源碼或者購買密鑰聯係telegram: +447506153673
 
-郑重声明：未成年人请勿下载，使用
+郑重声明：未成年人请勿下载，使用。不要相信视频中的任何广告，否则后果自负
 
 ![Screenshot_2024_1127_180103 3](https://github.com/user-attachments/assets/8733f4cb-9097-466f-b807-b88a03beaa20)
 
