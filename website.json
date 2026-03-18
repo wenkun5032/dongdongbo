@@ -8,7 +8,7 @@
     "sort":0,
     "zh":"奇优视频",
     "en":"QiYou",
-    "lock":false,
+    "lock":false
   },
   {
     "code":"xueren",
@@ -19,7 +19,7 @@
     "sort":1,
     "zh":"雪人视频",
     "en":"XueRen",
-    "lock":true,
+    "lock":true
   },
   {
     "code":"melon",
@@ -30,7 +30,7 @@
     "sort":2,
     "zh":"吃瓜视频 | 有时不能播放",
     "en":"Melon | Sometimes cannot play",
-    "lock":true,
+    "lock":true
   },
   {
     "code":"jxx",
@@ -41,7 +41,7 @@
     "sort":3,
     "zh":"jxx | 慢",
     "en":"JXX | Slow",
-    "lock":true,
+    "lock":true
   },
   {
     "code":"xiuxiu",
@@ -52,7 +52,7 @@
     "sort":4,
     "zh":"羞羞 | 慢",
     "en":"Xiu Xiu | Slow",
-    "lock":true,
+    "lock":true
   },
   {
     "code":"huanlegu",
@@ -63,6 +63,6 @@
     "sort":5,
     "zh":"欢乐谷 | 慢",
     "en":"Huan Le Gu | Slow",
-    "lock":true,
-  },
+    "lock":true
+  }
 ]
