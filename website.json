@@ -11,12 +11,23 @@
     "lock":false
   },
   {
+    "code":"movies",
+    "name":"家庭影院",
+    "itemCount":3,
+    "aspectRatio":0.6,
+    "website":"https://zyc003.com",
+    "sort":1,
+    "zh":"家庭影院",
+    "en":"Movies",
+    "lock":false
+  },
+  {
     "code":"xueren",
     "name":"雪人视频",
     "itemCount":2,
     "aspectRatio":0.75,
     "website":"https://www.xueren.cc",
-    "sort":1,
+    "sort":2,
     "zh":"雪人视频",
     "en":"XueRen",
     "lock":true
@@ -27,7 +38,7 @@
     "itemCount":2,
     "aspectRatio":0.75,
     "website":"https://py9r.cs3cj4yb.pro:8869",
-    "sort":2,
+    "sort":3,
     "zh":"吃瓜视频 | 有时不能播放",
     "en":"Melon | Sometimes cannot play",
     "lock":true
@@ -38,7 +49,7 @@
     "itemCount":2,
     "aspectRatio":0.75,
     "website":"https://1.j5548xx.cc",
-    "sort":3,
+    "sort":4,
     "zh":"jxx | 慢",
     "en":"JXX | Slow",
     "lock":true
@@ -49,7 +60,7 @@
     "itemCount":2,
     "aspectRatio":0.75,
     "website":"https://7.xx7461xx.cc",
-    "sort":4,
+    "sort":5,
     "zh":"羞羞 | 慢",
     "en":"Xiu Xiu | Slow",
     "lock":true
@@ -60,7 +71,7 @@
     "itemCount":2,
     "aspectRatio":0.75,
     "website":"https://5.huan5918.cc",
-    "sort":5,
+    "sort":6,
     "zh":"欢乐谷 | 慢",
     "en":"Huan Le Gu | Slow",
     "lock":true
