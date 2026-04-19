@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "buildNumber": "5",
+  "version": "1.0.6",
+  "buildNumber": "1",
   "updateUrl": "https://www.baidu.com",
   "description":"增加网址",
   "mustUpdate": true
